@@ -44,7 +44,4 @@ nyamnyam은 그런 고민을 덜어들이기 위해 날씨에 따라 디저트 �
 
 # Stack
 
--React
--React-Native[Expo], React-Navigation
--Redux, Redux-Saga
--Typescript
+-React, React-Native[Expo], React-Navigation, Redux, Redux-Saga, Typescript
