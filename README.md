@@ -44,4 +44,5 @@ nyamnyam은 그런 고민을 덜어들이기 위해 날씨에 따라 디저트 �
 
 # Stack
 
--React, React-Native[Expo], React-Navigation, Redux, Redux-Saga, Typescript
+![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F842886f6-b3ac-4233-899e-aa1044e3e585%2F_2020-11-01__1.21.05.png?table=block&id=01ac2470-d67d-40d6-a3ca-59d051b47a42&width=1150&userId=6599db97-d5ef-40ad-8ecb-aab699453da7&cache=v2)
+-React, React-Native[Expo], React-Navigation, Redux, Redux-Saga, Typescript, styled-component
